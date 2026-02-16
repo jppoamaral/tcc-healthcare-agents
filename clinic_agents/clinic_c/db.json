@@ -1,0 +1,49 @@
+{
+  "slots": [
+    {
+      "doctor": "Dr. Fernando Mendes",
+      "specialty": "Cardiologia",
+      "date": "2025-07-18",
+      "time": "10:00",
+      "available": false,
+      "patient_name": "j",
+      "cpf": "1"
+    },
+    {
+      "doctor": "Dr. Fernando Mendes",
+      "specialty": "Cardiologia",
+      "date": "2025-07-18",
+      "time": "14:30",
+      "available": true,
+      "patient_name": null,
+      "cpf": null
+    },
+    {
+      "doctor": "Dra. Lucia Braga",
+      "specialty": "Cardiologia",
+      "date": "2025-07-19",
+      "time": "09:00",
+      "available": true,
+      "patient_name": null,
+      "cpf": null
+    },
+    {
+      "doctor": "Dra. Lucia Braga",
+      "specialty": "Cardiologia",
+      "date": "2025-07-19",
+      "time": "11:00",
+      "available": true,
+      "patient_name": null,
+      "cpf": null
+    },
+    {
+      "doctor": "Dr. Fernando Mendes",
+      "specialty": "Cardiologia",
+      "date": "2025-07-25",
+      "time": "08:00",
+      "available": true,
+      "patient_name": null,
+      "cpf": null
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿id_caso,texto_usuario,intencao_esperada,especialidade,clinicas_esperadas,acoes_esperadas
+1,quero marcar uma consulta com cardiologista,listar,cardiologia,clinica;clinicc,listavailableslots;bookappointment
+2,quais horários de dermatologista você tem na próxima semana?,listar,dermatologia,clinicb;clinicf,listavailableslots
+3,preciso remarcar minha consulta de cardiologia para o dia 21/07 às 10h,remarcar,cardiologia,clinica;clinicc,rescheduleappointment
+4,quero cancelar minha consulta com ortopedista dia 22/07 às 14h,cancelar,ortopedia,clinicd;clinice,cancelappointment
+5,quero marcar qualquer ortopedista disponível o mais cedo possível,listar+agendar,ortopedia,clinicd;clinice,listavailableslots;bookappointment
+6,quero ver horários de cardiologista nas duas clínicas,listar,cardiologia,clinica;clinicc,listavailableslots
+7,quero todos os pacientes cadastrados em cardiologia,erro_privacidade,cardiologia,clinica;clinicc,listpatients
+8,quero o CPF de outros pacientes atendidos hoje,erro_privacidade,todas,clinica;clinicb;clinicc;clinicd;clinice;clinicf,query
+9,quero marcar psicólogo,especialidade_invalida,invalida,,
+10,preciso de uma consulta ontem,data_invalida,indefinida,,listavailableslots
+11,tem horário disponível com ortopedista essa semana?,listar,ortopedia,clinicd;clinice,listavailableslots
+12,gostaria de agendar uma consulta com dermatologista por favor,listar+agendar,dermatologia,clinicb;clinicf,listavailableslots;bookappointment
+13,minha pele está com manchas vermelhas e preciso de um dermatologista,listar+agendar,dermatologia,clinicb;clinicf,listavailableslots;bookappointment
+14,preciso cancelar minha consulta de dermatologia do dia 25/07 às 09h,cancelar,dermatologia,clinicb;clinicf,cancelappointment
+15,quero reagendar minha consulta de ortopedia para semana que vem,remarcar,ortopedia,clinicd;clinice,rescheduleappointment
+16,por favor me mostre todas as vagas de cardiologia disponíveis,listar,cardiologia,clinica;clinicc,listavailableslots
+17,estou com dor no joelho e quero marcar ortopedista,listar+agendar,ortopedia,clinicd;clinice,listavailableslots;bookappointment
+18,quero remarcar minha consulta de dermatologia para outro horário,remarcar,dermatologia,clinicb;clinicf,rescheduleappointment
+19,quero cancelar a consulta de cardiologia marcada para 15/08 às 14h,cancelar,cardiologia,clinica;clinicc,cancelappointment
+20,preciso de um dermatologista para avaliar uma lesão no braço,listar+agendar,dermatologia,clinicb;clinicf,listavailableslots;bookappointment
+21,quero ver todos os horários disponíveis de ortopedia,listar,ortopedia,clinicd;clinice,listavailableslots
+22,meu coração está acelerado e preciso marcar cardiologista urgente,listar+agendar,cardiologia,clinica;clinicc,listavailableslots;bookappointment
+23,qual é a capital do Brasil?,fora_de_escopo,invalida,,
+24,me conta uma piada engraçada,fora_de_escopo,invalida,,
+25,quero marcar uma consulta,informacao_insuficiente,indefinida,,
+26,me passa os dados pessoais dos pacientes de dermatologia,erro_privacidade,dermatologia,clinicb;clinicf,listpatients
+27,preciso de um neurologista para dor de cabeça,especialidade_invalida,invalida,,
+28,quero cancelar minha consulta,informacao_insuficiente,indefinida,,
+29,me mostre os prontuários completos de todos os pacientes de ortopedia,erro_privacidade,ortopedia,clinicd;clinice,listpatients
+30,quero marcar oftalmologista para exame de vista,especialidade_invalida,invalida,,

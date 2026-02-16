@@ -1,0 +1,58 @@
+{
+  "slots": [
+    {
+      "doctor": "Dr. Ricardo Lopes",
+      "specialty": "Cardiologia",
+      "date": "2025-07-21",
+      "time": "09:00",
+      "available": true,
+      "patient_name": null,
+      "cpf": null
+    },
+    {
+      "doctor": "Dr. Ricardo Lopes",
+      "specialty": "Cardiologia",
+      "date": "2025-07-21",
+      "time": "10:30",
+      "available": true,
+      "patient_name": null,
+      "cpf": null
+    },
+    {
+      "doctor": "Dra. Camila Ferreira",
+      "specialty": "Cardiologia",
+      "date": "2025-07-22",
+      "time": "14:00",
+      "available": true,
+      "patient_name": null,
+      "cpf": null
+    },
+    {
+      "doctor": "Dra. Camila Ferreira",
+      "specialty": "Cardiologia",
+      "date": "2025-07-22",
+      "time": "15:30",
+      "available": true,
+      "patient_name": null,
+      "cpf": null
+    },
+    {
+      "doctor": "Dr. Ricardo Lopes",
+      "specialty": "Cardiologia",
+      "date": "2025-07-23",
+      "time": "08:00",
+      "available": true,
+      "patient_name": null,
+      "cpf": null
+    },
+    {
+      "doctor": "Dra. Camila Ferreira",
+      "specialty": "Cardiologia",
+      "date": "2025-07-24",
+      "time": "11:00",
+      "available": true,
+      "patient_name": null,
+      "cpf": null
+    }
+  ]
+}

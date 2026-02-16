@@ -1,0 +1,10 @@
+{
+  "slots": [
+    {"doctor": "Dr. Gustavo Pinto", "specialty": "Ortopedia", "date": "2025-07-17", "time": "08:30", "available": true, "patient_name": null, "cpf": null},
+    {"doctor": "Dr. Gustavo Pinto", "specialty": "Ortopedia", "date": "2025-07-17", "time": "10:00", "available": true, "patient_name": null, "cpf": null},
+    {"doctor": "Dra. Renata Campos", "specialty": "Ortopedia", "date": "2025-07-18", "time": "13:00", "available": true, "patient_name": null, "cpf": null},
+    {"doctor": "Dra. Renata Campos", "specialty": "Ortopedia", "date": "2025-07-20", "time": "09:00", "available": true, "patient_name": null, "cpf": null},
+    {"doctor": "Dr. Gustavo Pinto", "specialty": "Ortopedia", "date": "2025-07-23", "time": "15:00", "available": true, "patient_name": null, "cpf": null},
+    {"doctor": "Dra. Renata Campos", "specialty": "Ortopedia", "date": "2025-07-25", "time": "10:30", "available": true, "patient_name": null, "cpf": null}
+  ]
+}

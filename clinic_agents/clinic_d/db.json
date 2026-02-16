@@ -1,0 +1,9 @@
+{
+  "slots": [
+    {"doctor": "Dr. Andre Martins", "specialty": "Ortopedia", "date": "2025-07-21", "time": "08:00", "available": true, "patient_name": null, "cpf": null},
+    {"doctor": "Dr. Andre Martins", "specialty": "Ortopedia", "date": "2025-07-21", "time": "09:30", "available": true, "patient_name": null, "cpf": null},
+    {"doctor": "Dra. Beatriz Rocha", "specialty": "Ortopedia", "date": "2025-07-22", "time": "10:00", "available": true, "patient_name": null, "cpf": null},
+    {"doctor": "Dra. Beatriz Rocha", "specialty": "Ortopedia", "date": "2025-07-22", "time": "14:00", "available": true, "patient_name": null, "cpf": null},
+    {"doctor": "Dr. Andre Martins", "specialty": "Ortopedia", "date": "2025-07-24", "time": "11:00", "available": true, "patient_name": null, "cpf": null}
+  ]
+}

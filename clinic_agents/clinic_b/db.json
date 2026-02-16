@@ -1,0 +1,10 @@
+{
+  "slots": [
+    {"doctor": "Dra. Patricia Souza", "specialty": "Dermatologia", "date": "2025-07-21", "time": "10:00", "available": true, "patient_name": null, "cpf": null},
+    {"doctor": "Dra. Patricia Souza", "specialty": "Dermatologia", "date": "2025-07-21", "time": "11:30", "available": true, "patient_name": null, "cpf": null},
+    {"doctor": "Dr. Henrique Dias", "specialty": "Dermatologia", "date": "2025-07-23", "time": "09:00", "available": true, "patient_name": null, "cpf": null},
+    {"doctor": "Dr. Henrique Dias", "specialty": "Dermatologia", "date": "2025-07-23", "time": "10:30", "available": true, "patient_name": null, "cpf": null},
+    {"doctor": "Dra. Patricia Souza", "specialty": "Dermatologia", "date": "2025-07-25", "time": "9:00", "available": false, "patient_name": "j", "cpf": 1},
+    {"doctor": "Dra. Patricia Souza", "specialty": "Dermatologia", "date": "2025-07-25", "time": "14:00", "available": true, "patient_name": null, "cpf": null}
+  ]
+}
